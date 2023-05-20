@@ -4,6 +4,7 @@ export default function Home() {
   return (
  <div>
   Holla Amigos
+  Deployed successfully
  </div>
   )
 }
